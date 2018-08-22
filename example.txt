@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 This an example text file.it currently has one line.
 taking five minutes to add a new line. 
 changes font now 8:49
 noticed the highlinghting was in red 
+=======
+>>>>>>> parent of 4a6e4c4... added a new line
