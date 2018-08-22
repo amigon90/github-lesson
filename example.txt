@@ -1,1 +1,3 @@
 This an example text file.it currently has one line.
+taking five minutes to add a new line. 
+changes font now 8:49
