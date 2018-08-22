@@ -5,3 +5,4 @@ changes font now 8:49
 noticed the highlinghting was in red 
 =======
 >>>>>>> parent of 4a6e4c4... added a new line
+i have added a new line to this text file
